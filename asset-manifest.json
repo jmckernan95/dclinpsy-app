@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dclinpsy-app/static/css/main.e6c13ad2.css",
-    "main.js": "/dclinpsy-app/static/js/main.3a6433bd.js",
+    "main.js": "/dclinpsy-app/static/js/main.c7fe3722.js",
     "static/js/453.2f8ea2af.chunk.js": "/dclinpsy-app/static/js/453.2f8ea2af.chunk.js",
     "index.html": "/dclinpsy-app/index.html",
     "main.e6c13ad2.css.map": "/dclinpsy-app/static/css/main.e6c13ad2.css.map",
-    "main.3a6433bd.js.map": "/dclinpsy-app/static/js/main.3a6433bd.js.map",
+    "main.c7fe3722.js.map": "/dclinpsy-app/static/js/main.c7fe3722.js.map",
     "453.2f8ea2af.chunk.js.map": "/dclinpsy-app/static/js/453.2f8ea2af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3a6433bd.js"
+    "static/js/main.c7fe3722.js"
   ]
 }
